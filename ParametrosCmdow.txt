@@ -1,0 +1,1 @@
+cmdow %JANELA% /MOV -2 -24
